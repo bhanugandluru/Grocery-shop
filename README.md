@@ -38,16 +38,12 @@ Prerequisites
 
 . Node.js
 
-NPM (Node Package Manager)
+. NPM (Node Package Manager)
 
-MongoDB Atlas Account (or local MongoDB installation)
+. MongoDB Atlas Account (or local MongoDB installation)
 
 Installation
-Clone the repository
 
-Bash
-
-git clone https://github.com/Harish25232/Grocery-Store.git
 Navigate to the project directory
 
 Bash
