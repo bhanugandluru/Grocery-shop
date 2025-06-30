@@ -1,12 +1,18 @@
-Digital Grocery Store - Online E-Commerce Platform
+ShopSmart - Your Digital Grocery Store (GroceryShop)
+
 Full Stack Development with MERN
 Digital Grocery Store is an online e-commerce platform designed to simplify the process of buying groceries. It provides a user-friendly interface for customers to browse products and manage their shopping cart, and a dedicated dashboard for administrators to manage inventory.
 
 📂 Project Features
+
 ✅ Role-based Access for Customers & Administrators
+
 ✅ Full Product Management (Create, Read, Update, Delete) by Admins
+
 ✅ Dynamic Shopping Cart for all users
+
 ✅ Secure User Authentication with JSON Web Tokens (JWT)
+
 ✅ Responsive UI built with React
 
 🛠 Tech Stack
