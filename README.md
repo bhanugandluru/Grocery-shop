@@ -1,29 +1,30 @@
 ShopSmart - Your Digital Grocery Store (GroceryShop)
 
 Full Stack Development with MERN
+
 Digital Grocery Store is an online e-commerce platform designed to simplify the process of buying groceries. It provides a user-friendly interface for customers to browse products and manage their shopping cart, and a dedicated dashboard for administrators to manage inventory.
 
 📂 Project Features
 
-✅ Role-based Access for Customers & Administrators
+. ✅ Role-based Access for Customers & Administrators
 
-✅ Full Product Management (Create, Read, Update, Delete) by Admins
+. ✅ Full Product Management (Create, Read, Update, Delete) by Admins
 
-✅ Dynamic Shopping Cart for all users
+. ✅ Dynamic Shopping Cart for all users
 
-✅ Secure User Authentication with JSON Web Tokens (JWT)
+. ✅ Secure User Authentication with JSON Web Tokens (JWT)
 
-✅ Responsive UI built with React
+. ✅ Responsive UI built with React
 
 🛠 Tech Stack
-Frontend: React
 
-Backend: Node.js, Express.js
+. Frontend: React
 
-Database: MongoDB
+. Backend: Node.js, Express.js
+
+. Database: MongoDB
 
 📁 Project Folder Structure
-Your project is organized with the backend in the root and the frontend in a separate folder.
 
 ├── frontend      # React Frontend Application
 ├── controllers   # Express Backend Logic
@@ -34,7 +35,8 @@ Your project is organized with the backend in the root and the frontend in a sep
 └── server.js     # Main Backend Server File
 🚀 Setup Instructions
 Prerequisites
-Node.js
+
+. Node.js
 
 NPM (Node Package Manager)
 
